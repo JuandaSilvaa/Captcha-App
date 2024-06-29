@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Captcha App é uma página web que gera um desafio de Captcha, onde o usuário precisa digitar corretamente para verificar se é humano. Foi uma ótima oportunidade para explorar novas técnicas e reforçar conceitos importantes.
 
-- [Acesse o projeto finalizado, online](https://juandasilvaa.github.io//)
+- [Acesse o projeto finalizado, online](https://juandasilvaa.github.io/Captcha-App/)
 
 ## 🔍 Destaques do Aprendizado
 
